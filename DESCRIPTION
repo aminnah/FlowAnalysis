@@ -1,0 +1,12 @@
+Package: FlowAnalysis
+Type: Package
+Title: Analyze Flow Cytometry Data .
+Version: 1.0.0
+Author: Anthony Minnah
+Maintainer: Anthony Minnah <anthony.minnah@yale.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
